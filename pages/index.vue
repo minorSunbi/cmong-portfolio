@@ -59,7 +59,7 @@
               크몽으로 문의 주세요
             </div>
             <div class="text-h6 no-wrap">
-              저녁 6시 아전에 연락 부탁드릴게요🤓
+              저녁 6시 이전에 연락 부탁드릴게요🤓
             </div>
             <v-row justify="center">
             <v-btn
